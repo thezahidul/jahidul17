@@ -58,11 +58,11 @@ I am passionate about software development and continuous learning.
 
 Here are some highlights from my journey in competitive programming, hackathons, and tech exhibitions:
 
-- 🎖️ **5th Place** — Impact Dhaka 2026 at BUET, Bangladesh’s First International AI Hackathon
+- 🎖️ **5th Place** — Among 65 teams, Impact Dhaka 2026 at BUET, Bangladesh’s First International AI Hackathon
 - 🌟 **Poster Presentation Finalist** — Top 10 teams, TokyoLift EEE Fest DIU 2025
 - 🎖️ **7th Place** — Among Top 12 teams, Project Showcasing, BUET BCS ICT Fest 2025 Finalist
-- 🥉 **2nd Runner Up** — among 100+ teams, Project Showcasing, BUET BCS ICT Fest 2025 Preliminary
-- 🏅 **Ranked 1000th** — among 2600 teams, ICPC Preliminary Dhaka Site 2024
+- 🥉 **2nd Runner Up** — Among 100+ teams, Project Showcasing, BUET BCS ICT Fest 2025 Preliminary
+- 🏅 **Ranked 1000th** — Among 2600 teams, ICPC Preliminary Dhaka Site 2024
 - 🥇 **Champion** — Idea Contest, DIU SpringFest 2024
 
 ![](https://komarev.com/ghpvc/?username=jahidul17&abbreviated=true&label=PROFILE+VIEWS)
