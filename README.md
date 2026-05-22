@@ -10,7 +10,7 @@ I am a backend engineer who loves turning complex business requirements into cle
 
 - 🔭 **Currently building:** Enterprise-level applications and custom Odoo modules as a **Junior Python Developer** at Zencore Solutions Limited.
 - ⚙️ **My Tech Engine:** I primarily work with **Python, Odoo, Django, FastAPI, and PostgreSQL** to build robust RESTful APIs.
-- 🧠 **My Edge:** A solid background in **Competitive Programming (500+ problems solved)**, which sharpened my logic and problem-solving speed.
+- 🧠 **My Edge:** A solid background in Competitive Programming, which sharpened my logic and problem-solving speed.
 - 🌱 **Always Learning:** Currently diving deeper into advanced backend architectures, system design, and workflow automation.
 - 🎓 **Education:** B.Sc. in Computer Science and Engineering at Dhaka International University (DIU).
 
