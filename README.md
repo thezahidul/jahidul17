@@ -53,7 +53,7 @@ I am a backend engineer who loves turning complex business requirements into cle
 
 ## 🏆 Milestones & Achievements
 
-- 🇯🇵 **Global Event Invitation** — Officially invited by Cognisor AI to the *SusHi Tech Tokyo* event (April 2026).
+- 🇯🇵 **Global Event Invitation** — Officially invited by Cognisor AI to the *SusHi Tech Tokyo* event in Japan (April 2026).
 - 🏅 **5th Place** — Among **65 teams** at Impact Dhaka 2026 (BUET), Bangladesh’s First International AI Hackathon.
 - 🌟 **Poster Presentation Finalist** — Top **10 teams**, TokyoLift EEE Fest DIU 2025.
 - 🎯 **Finalist (7th Place)** — Among Top **12 teams**, Project Showcasing, BUET BCS ICT Fest 2025.
