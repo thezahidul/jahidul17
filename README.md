@@ -55,11 +55,11 @@ I am a backend engineer who loves turning complex business requirements into cle
 
 - 🇯🇵 **Global Event Invitation** — Officially invited by Cognisor AI to the *SusHi Tech Tokyo* event in Japan (April 2026).
 - 🏅 **5th Place** — Among **65 teams** at Impact Dhaka 2026 (BUET), Bangladesh’s First International AI Hackathon.
-- 🌟 **Poster Presentation Finalist** — Top **10 teams**, TokyoLift EEE Fest DIU 2025.
 - 🎯 **Finalist (7th Place)** — Among Top **12 teams**, Project Showcasing, BUET BCS ICT Fest 2025.
 - 🥉 **2nd Runner Up** — Among **100+ teams** in the Preliminaries, BUET BCS ICT Fest 2025.
-- 🏆 **Champion** — Idea Contest, DIU SpringFest 2024.
+- 🌟 **Poster Presentation Finalist** — Top **10 teams**, TokyoLift EEE Fest DIU 2025.
 - 💻 **Ranked 1000th** — Among **2600 teams**, ICPC Preliminary Dhaka Site 2024.
+- 🏆 **Champion** — Idea Contest, DIU SpringFest 2024.
 
 <br>
 
